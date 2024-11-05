@@ -3,7 +3,7 @@
 [Paper Link](https://arxiv.org/abs/2203.02155)
 
 ## abstract
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8ff2d0f5-4c4d-4285-803a-6ec3e66956ab/f09a4879-1ea9-482d-9081-c819f82d3981/image.png)
+![image](https://github.com/user-attachments/assets/53f79251-f5db-42c6-9eb6-7c9a6eb4532e)
 
 
 # Sample Markdown File
