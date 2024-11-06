@@ -5,7 +5,7 @@
 ## Table of Contents
 1. [Abstract](#Abstract)
 2. [Introduction](#Introduction)
-3. 
+3. [Related Work](#Related work)
 
 ## Abstract
 ![image](https://github.com/user-attachments/assets/53f79251-f5db-42c6-9eb6-7c9a6eb4532e)
